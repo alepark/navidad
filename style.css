@@ -13,6 +13,7 @@ body {
 }
 
 .feliz{
+  text-align: center;
   color: white;
   font-size: 6rem;
   font-family: 'Lobster', cursive;
@@ -28,6 +29,6 @@ border-bottom-left-radius: 50% 50%;
 }
 
 .yoda{
-  width: 10%;
+  width: 20%;
   padding: 2%;
 }

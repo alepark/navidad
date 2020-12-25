@@ -1,11 +1,11 @@
 
 
 
-
 body {
-  margin-top: 10%;
+  margin-top: 15%;
   background-color: #e5707e;
   text-align: center;
+  padding: 10px;
 }
 .navidad{
   border-radius: 100%;
@@ -24,9 +24,9 @@ body {
 .princesa {
   padding: 10px;
   border-top-left-radius: 50% 50%;
-border-top-right-radius: 50% 50%;
-border-bottom-right-radius: 50% 50%;
-border-bottom-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
 
 }
 

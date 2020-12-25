@@ -13,9 +13,10 @@ body {
 }
 
 .feliz{
+  padding: 5%;
   text-align: center;
   color: white;
-  font-size: 6rem;
+  font-size: 8rem;
   font-family: 'Lobster', cursive;
 }
 

@@ -1,0 +1,28 @@
+
+
+
+
+body {
+  background-color: #e5707e;
+  text-align: center;
+}
+.navidad{
+  border-radius: 100%;
+  padding: 50px;
+
+}
+
+.feliz{
+  color: white;
+  font-size: 6rem;
+  font-family: 'Lobster', cursive;
+}
+
+.princesa {
+  padding: 10px;
+  border-top-left-radius: 50% 50%;
+border-top-right-radius: 50% 50%;
+border-bottom-right-radius: 50% 50%;
+border-bottom-left-radius: 50% 50%;
+
+}
